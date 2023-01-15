@@ -7,3 +7,6 @@
 1. dotfiles.sh        - $(HOME)/.bashrc
 2. corp_hosts.txt     - $(HOME)/.ssh/config
 3. corp_starship.txt  - $(HOME)/.starship.toml
+
+## master executor
+1. functions.bash     - $(HOME)/home
