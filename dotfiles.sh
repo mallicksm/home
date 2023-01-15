@@ -6,9 +6,7 @@
 #
 # Note:
 #
-# Description: Rudimentary settings
-# Link this file to $HOME 
-#    ln -s $0/corp_settings.sh $HOME/
+# Description: corp specifics settings that gets sourced within .bashrc
+#
 #===============================================================================
 source ~/dotfiles/utils/bash_snippets.sh 2>/dev/null
-export corp=home

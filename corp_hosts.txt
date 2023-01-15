@@ -1,0 +1,12 @@
+#==============================================================================
+# Created: Jan-15-2023
+# Author: soummya
+# 
+# Note:
+# 
+# Description: .ssh/config corp host specifications
+# 
+# e.g:
+# Host host_alias
+#    HostName fqdn_dns_hostname
+#==============================================================================

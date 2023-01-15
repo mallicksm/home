@@ -1,0 +1,11 @@
+#==============================================================================
+# Created: Jan-15-2023
+# Author: soummya
+# 
+# Note:
+# 
+# Description: directory aliases included in $HOME/.starship.toml
+# e.g: 
+# [directory.substitution]
+# "/full/dir/path" = "$DIR_ALIAS"
+#==============================================================================
