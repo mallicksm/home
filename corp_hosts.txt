@@ -10,3 +10,6 @@
 # Host host_alias
 #    HostName fqdn_dns_hostname
 #==============================================================================
+Host ubuntu
+   Hostname sm-ubuntu01
+   User mallick1
