@@ -21,6 +21,3 @@ modpath /opt/homebrew/Cellar/llvm/17.0.6_1/bin/ b
 modpath /opt/X11/bin/ b
 modpath ~/tools/verible/verible-v0.0-3648-g5ef1624a-macOS/bin b
 modpath /opt/homebrew/bin/ b
-tools=~/tools
-tools=~/proj
-dotfiles=~/dotfiles
